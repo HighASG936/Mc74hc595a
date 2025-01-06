@@ -1,0 +1,22 @@
+{
+    "name": "mc74hc595a",
+    "version": "1.0.1",
+    "authors": [
+      {
+        "name": "Aurelio Siordia",
+        "email": "jonico.dorico@gmail.com",
+        "maintainer": true
+      }
+    ],
+    "description": "A library to use 8-Bit Serial-Input/Serial or Parallel-Output Shift mc74hc595a. You can use it to integrate IC mc74hc595a at your project easily.",
+    "keywords": ["shift-register", "mc74hc595a", "serial-output"],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/HighASG936/Mc74hc595a"
+    },
+    "frameworks": ["arduino"],
+    "platforms": ["atmelavr"],
+    "headers": ["mc74hc595a.h"],
+    "examples": ["examples/*"]
+  }
+  
